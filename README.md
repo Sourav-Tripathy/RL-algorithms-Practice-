@@ -12,4 +12,5 @@ Book pdf - http://incompleteideas.net/book/RLbook2018.pdf
 ## Some Intresting articles I found 
 
 https://yexijiang.substack.com/p/if-you-understand-life-youve-already
+https://yexijiang.substack.com/p/if-youve-lived-life-youve-already
 
