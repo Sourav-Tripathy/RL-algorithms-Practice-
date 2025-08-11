@@ -9,9 +9,15 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPeb
 
 Book pdf - http://incompleteideas.net/book/RLbook2018.pdf
 
-## Some Intresting articles I found 
+## Some Intresting articles I found (That helps in intution development with less math)
 
 https://yexijiang.substack.com/p/if-you-understand-life-youve-already
 
 https://yexijiang.substack.com/p/if-youve-lived-life-youve-already
+
+https://blog.theunscalable.com/p/the-beauty-of-reinforcement-learning-1
+
+https://blog.theunscalable.com/p/the-beauty-of-reinforcement-learning-2
+
+https://blog.theunscalable.com/p/the-beauty-of-reinforcement-learning-3
 
