@@ -9,7 +9,7 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPeb
 
 Book pdf - http://incompleteideas.net/book/RLbook2018.pdf
 
-## Some Intresting articles I found (That helps in intution development with less math)
+## Some Intresting articles I found (That helps in intuition development with less math)
 
 https://yexijiang.substack.com/p/if-you-understand-life-youve-already
 
