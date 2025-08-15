@@ -15,6 +15,8 @@ https://yexijiang.substack.com/p/if-you-understand-life-youve-already
 
 https://yexijiang.substack.com/p/if-youve-lived-life-youve-already
 
+https://yexijiang.substack.com/p/if-you-lived-life-youve-already-learned
+
 https://blog.theunscalable.com/p/the-beauty-of-reinforcement-learning-1
 
 https://blog.theunscalable.com/p/the-beauty-of-reinforcement-learning-2
