@@ -7,7 +7,7 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPeb
 
 ## An Introduction To RL (text book by sutton and Barto)
 
-Book pdf - http://incompleteideas.net/book/RLbook2018.pdf
+Book pdf  - http://incompleteideas.net/book/RLbook2018.pdf
 
 ## Some Intresting articles I found (That helps in intuition development with less math)
 
